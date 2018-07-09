@@ -1,0 +1,2 @@
+# TheCoolKidsserverBot
+Bot
